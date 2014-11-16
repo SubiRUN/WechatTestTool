@@ -1,7 +1,7 @@
 package org.outstudio.wxtest;
 
 import org.junit.Test;
-import org.outstudio.wxtest.StringUtil;
+import org.outstudio.wxtest.util.StringUtil;
 
 import static org.junit.Assert.assertEquals;
 
